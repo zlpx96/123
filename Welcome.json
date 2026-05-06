@@ -1,0 +1,30 @@
+{
+  "time": 1778064064839,
+  "blocks": [
+    {
+      "id": "WaWw8WH5e3",
+      "type": "header",
+      "data": {
+        "text": "Welcome to YesnoteLite 👋",
+        "level": 1
+      }
+    },
+    {
+      "id": "te7wQLPEjr",
+      "type": "paragraph",
+      "data": {
+        "text": "Start writing your notes here."
+      }
+    },
+    {
+      "id": "O5HjC7pGWN",
+      "type": "table",
+      "data": {
+        "withHeadings": false,
+        "stretched": false,
+        "content": []
+      }
+    }
+  ],
+  "version": "2.26.5"
+}
